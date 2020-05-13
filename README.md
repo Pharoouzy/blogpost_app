@@ -1,4 +1,4 @@
-# blogapp
+# Mini Blogpost App
 
 A new Flutter application.
 
